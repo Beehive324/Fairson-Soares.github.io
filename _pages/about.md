@@ -9,7 +9,7 @@ redirect_from:
 
 ## About Me
 
-I am passionate about science and dedicated to problem-solving, continuous learning, and creative endeavors.
+I am passionate about computer science and dedicated to problem-solving, continuous learning, and creative endeavors.
 
 ## Work Experience
 
