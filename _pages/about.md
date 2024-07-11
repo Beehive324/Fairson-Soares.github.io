@@ -25,3 +25,4 @@ During my placement at Graham Care Group, I worked extensively in the field of d
 - Developing and monitoring key performance indicators (KPIs) to evaluate and enhance operational efficiency.
 
 This role allowed me to apply my technical skills to real-world problems, contributing to the improvement of care home operations through data-driven strategies.
+
