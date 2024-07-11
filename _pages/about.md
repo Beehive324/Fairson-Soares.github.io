@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Welcome to my Academic Pages Site"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,7 +10,7 @@ redirect_from:
 ## About Me
 
 I am passionate about computer science and dedicated to problem-solving, continuous learning, and creative endeavors.
-
+s
 ## Work Experience
 
 ### Graham Care Group - Data Analytics Placement
