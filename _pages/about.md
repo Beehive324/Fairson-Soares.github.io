@@ -16,8 +16,8 @@ I am passionate about computer science and dedicated to problem-solving, continu
 - Python
 
 ## 🗣️Spoken Languages
-- Portuguese (Native)
-- English (Fluent)
+- 🇵🇹Portuguese (Native)
+- 🇬🇧English (Fluent)
 
 ## 🎓Education
 University of Surrey
@@ -27,7 +27,7 @@ University of Surrey
 
 ### Graham Care Group - Data Analytics Placement
 
-**Tech Stack:** SQL, Power BI, Power Automate
+**Tech Stack:** SQL, Power BI, Power Automate, Microsoft Power Apps
 
 During my placement at Graham Care Group, I worked extensively in the field of data analytics. My responsibilities included:
 
@@ -50,7 +50,7 @@ This role allowed me to apply my technical skills to real-world problems, contri
 
 ### FDM Summer BootCamp
 
-**Tech Stack:** HTML (HyperText Markup Language), CSS (Cascading Style Sheets)
+**Tech Stack:** HTML, CSS
 
 - I participated in a 2-day HTML + CSS bootcamp provided by FDM, where I learned about HTML, its uses, and how to build a simple website structure using HTML. Additionally, I learned about CSS, its usage, and how to style HTML components using CSS.
 
