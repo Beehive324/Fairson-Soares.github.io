@@ -2,6 +2,7 @@
 title: "Voice Journaling App"
 excerpt: "Mobile application developed using the MERN stack, enabling speech-to-text journaling with Google's Speech-to-Text API."
 collection: portfolio
+date: '2024-07-11'
 ---
 
 I have been journaling regularly since the age of 16. Recently, I envisioned a more convenient way to journal by voicing my thoughts and having them transcribed into text. This inspired me to develop a mobile app using the MERN stack (MongoDB, Express, React Native, Node.js).
