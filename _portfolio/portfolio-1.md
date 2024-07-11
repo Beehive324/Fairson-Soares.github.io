@@ -9,4 +9,4 @@ I have been journaling regularly since the age of 16. Recently, I envisioned a m
 
 The app integrates Google's Speech-to-Text Cloud API for accurate transcription of audio into text. While currently supporting only English voice entries, my ongoing efforts include expanding the app to facilitate multilingual audio transcription.
 
-![Recordings](recordings.png)
+![Recordings](images/recordings.png)
