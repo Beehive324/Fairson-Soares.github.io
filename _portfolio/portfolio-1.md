@@ -1,6 +1,6 @@
 ---
 title: "Voice Journalling App"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/Articul-e.png'>"
+excerpt: "Mobile application developed using the MERN stack, the app enables speech-to-text journaling. Speech to text functionality was implement using Google's Speech-to-Text API.<br/><img src=/images/Articul-e.png'>"
 collection: portfolio
 ---
 
