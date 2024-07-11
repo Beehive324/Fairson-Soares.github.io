@@ -1,7 +1,10 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Voice Journalling App"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/Articul-e.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+I've started journalling since the age of 16, writing entries regularly. However, I felt that voicing my ideas out loud and having them transcribed into text would be a more convenient way of journaling. This led me to create an app that facilitates this process. I decided to develop the app using the MERN stack (MongoDB, Expresss, React Native, Node.js).
+
+The app utilizes the Google Speech-to-Text Cloud API to transcribe audio into text. Currently, it only supports English voice entries, but I am steadily working on expanding the project to support multilingual audio transcription.
+
