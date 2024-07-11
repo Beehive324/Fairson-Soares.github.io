@@ -5,7 +5,7 @@ collection: portfolio
 date: '2024-07-11'
 ---
 
-![](/Github.io/Fairson-Soares.github.io/content/Articul-e.png)
+![](/Fairson-Soares.github.io/content/Articul-e.png)
 
 I have been journaling regularly since the age of 16. Recently, I envisioned a more convenient way to journal by voicing my thoughts and having them transcribed into text. This inspired me to develop a mobile app using the MERN stack (MongoDB, Express, React Native, Node.js).
 
