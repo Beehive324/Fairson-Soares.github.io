@@ -52,9 +52,9 @@ This role allowed me to apply my technical skills to real-world problems, contri
 
 **Tech Stack:** HTML (HyperText Markup Language), CSS (Cascading Style Sheets)
 
-- Participated in a 2 Day HTML + CSS bootcamp provided by FDM, where 
-learnt about HTML, the uses of HTML, and to build a simple website structure using HTML.Learnt about CSS and it usages, and how to style HTML components using CSS
-- At the end of the Bootcamp I managed to build a simple portfolio using HTML and CSS.
+- I participated in a 2-day HTML + CSS bootcamp provided by FDM, where I learned about HTML, its uses, and how to build a simple website structure using HTML. Additionally, I learned about CSS, its usage, and how to style HTML components using CSS.
+
+- By the end of the bootcamp, I successfully built a simple portfolio using HTML and CSS.
 
 
 
