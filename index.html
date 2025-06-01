@@ -11,52 +11,66 @@
             background: #fff;
             color: #333;
         }
-
         pre {
             overflow-x: auto;
             white-space: pre;
             font-size: 12px;
             margin-bottom: 30px;
         }
-
         h1 {
             font-size: 1em;
             margin: 25px 0;
         }
-
+        h2 {
+            font-size: 1em;
+            margin: 25px 0 15px 0;
+            font-weight: bold;
+        }
         p {
             margin: 15px 0;
         }
-
         .nav {
             margin: 20px 0;
             padding: 0;
         }
-
         .nav-item {
             display: inline-block;
             margin-right: 20px;
             text-decoration: none;
             color: #333;
         }
-
         .nav-item:hover {
             text-decoration: underline;
         }
-
         .bullet {
             margin: 10px 0;
         }
-
         .bullet::before {
             content: "▪";
             margin-right: 10px;
         }
-
+        .employment-item {
+            margin: 15px 0;
+            padding-left: 15px;
+        }
+        .employment-item::before {
+            content: "▪";
+            margin-left: -15px;
+            margin-right: 10px;
+        }
+        .job-title {
+            font-weight: bold;
+        }
+        .company {
+            font-weight: bold;
+        }
+        .date-range {
+            color: #666;
+            font-style: italic;
+        }
         strong {
             font-weight: bold;
         }
-
         .footer {
             margin-top: 30px;
             border-top: 1px solid #ddd;
@@ -66,10 +80,9 @@
 </head>
 <body>
 <pre>
-
     ___           ___                       ___           ___           ___           ___     
     /\__\         /\  \                     /\  \         /\__\         /\  \         /\  \    
-   /:/ _/_       /::\  \       ___         /::\  \       /:/ _/_       /::\  \        \:\  \   
+   /:/  /        /::\  \       ___         /::\  \       /:/ _/_       /::\  \        \:\  \   
   /:/ /\__\     /:/\:\  \     /\__\       /:/\:\__\     /:/ /\  \     /:/\:\  \        \:\  \  
  /:/ /:/  /    /:/ /::\  \   /:/__/      /:/ /:/  /    /:/ /::\  \   /:/  \:\  \   _____\:\  \ 
 /:/_/:/  /    /:/_/:/\:\__\ /::\  \     /:/_/:/__/___ /:/_/:/\:\__\ /:/__/ \:\__\ /::::::::\__\
@@ -78,9 +91,7 @@
   \:\  \        \:\  \          \::/  /   \:\~~\        \/_/:/  /     \:\/:/  /     \:\  \     
    \:\__\        \:\__\         /:/  /     \:\__\         /:/  /       \::/  /       \:\__\    
     \/__/         \/__/         \/__/       \/__/         \/__/         \/__/         \/__/    
-
 </pre>
-
 <div class="nav">
     <a href="#" class="nav-item">~/about</a>
     <a href="https://github.com/Beehive324" class="nav-item">~/projects</a>
@@ -89,20 +100,28 @@
 </div>
 
 <h1>Hi, I'm Fairson,.</h1>
-
 <p>Final year Computer Science student interested in Data, AI, Software Engineering and Data Structures and Algorithms.</p>
-
 <p>I work primarily with <strong>Python</strong>, <strong>SQL</strong>, and <strong>JavaScript/TypeScript</strong>.</p>
 
+<h2>Work Experience</h2>
+<div class="employment-item">
+    <span class="job-title">Data Management Professional</span> @ <span class="company">Bloomberg</span> 
+    <span class="date-range">(2025 - Present)</span>
+</div>
+<div class="employment-item">
+    <span class="job-title">Data Placement Intern</span> @ <span class="company">Graham Care Group</span> 
+    <span class="date-range">(2023 - 2024)</span>
+</div>
+
+<h2>Projects</h2>
 <p>A brief summary of my work:</p>
-<div class="bullet"><a href="https://github.com/Beehive324/A-Multi-Agent-Framework-for-Automated-Pentesting"><strong>AutoTest</a></strong> - Final Year Project
+<div class="bullet"><a href="https://github.com/Beehive324/A-Multi-Agent-Framework-for-Automated-Pentesting"><strong>AutoTest</a></strong> - Final Year Project</div>
 <div class="bullet"><a href="https://apps.apple.com/gb/app/mindscribejourno/id6738331850"><strong>Mindscribe</a></strong> - iOS journaling app, built with React Native</div>
 <div class="bullet"><a href="https://github.com/Beehive324/PortfolioManager"><strong>Portfolio Manager</a></strong> - Built during Bloomberg tech labs</div>
 <div class="bullet"><a href="https://github.com/Beehive324/PoemScrape"><strong>Poem Scrape</a></strong> - Web scraping tool for poetry</div>
 
 <div class="footer">
-    <p>Find me on <a href="https://github.com/Beehive324">Github</a> and <a href="https://www.linkedin.com/in/fairson-soares-1a5a7620b/">LinkedIn</p>
+    <p>Find me on <a href="https://github.com/Beehive324">Github</a> and <a href="https://www.linkedin.com/in/fairson-soares-1a5a7620b/">LinkedIn</a></p>
 </div>
-
 </body>
 </html>
